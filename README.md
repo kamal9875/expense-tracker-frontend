@@ -1,2 +1,2 @@
 # expense-tracker-frontend
-Expense tracker backend
+Expense tracker frontend
